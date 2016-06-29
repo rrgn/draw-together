@@ -1,0 +1,48 @@
+.canvas {
+/*background-color: red;*/
+border: 3px solid black;
+position: relative;
+margin-top: 25px;
+}
+
+.colors>div {
+  border: 1px solid black;
+  width: 10%;
+  height: 20px;
+  display: inline-block;
+}
+
+.pixels>div {
+  border: 1px solid black;
+  width: 10%;
+  height: 20px;
+  display: inline-block;
+}
+
+.reset {
+  /*border: 1px solid black;*/
+  width: 10%;
+  height: 20px;
+  display: inline-block;
+  margin-top: 5px;
+}
+
+.red {
+  background-color: #F00;
+}
+
+.yellow {
+  background-color: #FECA1E;
+}
+
+.blue {
+  background-color: #5AD;
+}
+
+.black {
+  background-color: black;
+}
+
+.white {
+  background-color: white;
+}
